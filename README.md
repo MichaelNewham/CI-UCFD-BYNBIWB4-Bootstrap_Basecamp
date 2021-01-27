@@ -1,45 +1,29 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<<Attributiuon: All code for this repo taken from Code Institute Course > https://codeinstitute.net>>
 
-Welcome USER_NAME,
+# Bootstrap Your Next Big Idea with Bootstrap 4
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+This repo contains the Bootstrap 4 solution code for the *Bootstrap Your Next Big Idea* lesson
 
-## Gitpod Reminders
+## What is covered
+Bootstrap is an open-source CSS and JavaScript framework, that was developed by Twitter. It provides a huge library of components and functionality that we can you to make our websites responsive, as well as providing pre-built components like tables, buttons, forms, progress bars, etc. that are already styled and ready for us to use!
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Throughout these lessons, we'll learn about how to develop responsive websites using Bootstrap's responsive grid, use different components like tables, and we'll put together a sample website using the Bootstrap framework
 
-`python3 -m http.server`
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+## Contents
+This repository contains the solution code for the following units -
+  - 01-BootstrapBasecamp
+    - 04-source_code
+  - 02-CoreCSSAndTheGridSystem
+    - 01-mobile_first_design
+    - 02-core_css
+    - 03-the_grid_system
+    - 04-responsive_design
+  - 03-Components
+    - 01-core_components-part-1
+    - 02-core_components-part-2
+    - 03-progressive_enhancements_with_javascript_components-part-1
+    - 04-progressive_enhancements_with_javascript_components-part-2
+  - 04-BeyondBootstrap
+    - 01-updating_our_callout
+    - 02-styling_our_nav_and_alert
+    - 03-cleaning_up_our_content
